@@ -1,0 +1,25 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    margin-left: 40%;
+}
+
+.users-list__user {
+    background-color: antiquewhite;
+    padding:  5px;
+    margin: 5px;
+    margin-left: -38px;
+}
+.users-list__user:hover {
+    background-color: blueviolet;
+}
+
+.repasitore-list__user {
+    background-color: red;
+    padding: 5px;
+    margin: 5px;
+    margin-left: -38px;
+    width: max-content;
+}
+
